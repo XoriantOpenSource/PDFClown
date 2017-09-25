@@ -1,5 +1,5 @@
 # PDFClown
-This project aims to enhance PDF Clown library. PDF Clown provides a universal access to PDF files (creation, reading, editing, rendering...) through an accurate and elegant object-oriented API.
+This project aims to enhance PDF Clown library (java APIs). PDF Clown provides a universal access to PDF files (creation, reading, editing, rendering...) through an accurate and elegant object-oriented API.
 However, there are few limitations of PdfClown. This repo intends to remove those limitations and enhance the original library.
 
 Enhancement 1:
